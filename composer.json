@@ -15,6 +15,7 @@
         "drupal/core-composer-scaffold": "^9.2",
         "drupal/core-recommended": "^9.2",
         "drupal/maxlength": "^2.1",
+        "drupal/search_api_solr": "^4.2",
         "drupal/tfa": "^1.0",
         "drush/drush": "^10",
         "sdubois/amezmo-drupal-integrations": "dev-main"
